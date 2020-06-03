@@ -1,0 +1,11 @@
+.idea/
+.ipynb_checkpoints/
+.pytest_cache/
+backup/
+enter/.ipynb_checkpoints/
+__pycache__/
+wind_order/__pycache__/
+files
+enter/参考设计风参
+enter/项目场址风参
+enter/__pycache__
